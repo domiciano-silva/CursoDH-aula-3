@@ -1,2 +1,2 @@
 # CursoDH-aula-3
-DH-Aula3-github
+digital-house-Aula3-github
